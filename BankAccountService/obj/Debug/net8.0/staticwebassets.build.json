@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pUit2u4ekV5/Up5kx6+5OZ7BAWDP2J/hp1QGGXPBP3Y=",
+  "Source": "BankAccountService",
+  "BasePath": "_content/BankAccountService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
